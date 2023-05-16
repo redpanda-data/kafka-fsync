@@ -1,0 +1,11 @@
+kafka1/data/
+kafka1/kafka.log
+kafka1/pid
+kafka2/data/
+kafka2/kafka.log
+kafka2/pid
+kafka3/data/
+kafka3/kafka.log
+kafka3/pid
+zookeeper/version-2/
+zookeeper/zookeeper_server.pid
